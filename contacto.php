@@ -12,6 +12,5 @@
     <h2>soy la modificacion desde el escritorio</h2>
     <h4>SOY BATMAN</h4>
     <h3>Ola martha</h3>
-    <h2>prueba</h2>
 </body>
 </html>
